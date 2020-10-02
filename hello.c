@@ -1,8 +1,7 @@
 #include<stdio.h>
+#include<conio.h>
 void main()
 {
- printf("hello world...!!!");
+	printf("\nHello World. I am new to programming world. And this world is amazing.'");
+	getch();
 }
-printf("\this is the basic c program")
-}
- 
